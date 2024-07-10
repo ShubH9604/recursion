@@ -1,6 +1,6 @@
 class Recursion{
     
-    //calculate power of number
+    //calculate power of number(stack height = n)
     public static int calcPower(int x, int n){
         if (n == 0){
             return 1;
